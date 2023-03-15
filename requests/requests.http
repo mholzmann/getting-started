@@ -1,0 +1,6 @@
+GET http://localhost:8080/person
+
+###
+
+GET http://localhost:8080/person
+Accept: text/plain
